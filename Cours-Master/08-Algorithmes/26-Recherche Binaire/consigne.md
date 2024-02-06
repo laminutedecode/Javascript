@@ -1,0 +1,1 @@
+Écrivez une fonction en JavaScript qui implémente l'algorithme de recherche binaire. La fonction prendra en entrée un tableau trié et un élément à rechercher. Elle devra renvoyer l'index de l'élément s'il est présent dans le tableau, sinon -1.

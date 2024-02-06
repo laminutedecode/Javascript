@@ -1,0 +1,3 @@
+Écrivez une fonction en JavaScript qui recherche la présence d'un élément donné dans une matrice triée. La matrice est triée par ordre croissant sur chaque ligne et chaque colonne.
+
+Une matrice triée est une structure de données bidimensionnelle où les éléments sont arrangés de manière à respecter un ordre spécifique, généralement de manière croissante ou décroissante. Dans le contexte de cet exercice, une matrice triée par ordre croissant signifie que chaque ligne et chaque colonne de la matrice est triée de manière ascendante.

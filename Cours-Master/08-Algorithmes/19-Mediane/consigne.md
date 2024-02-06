@@ -1,0 +1,1 @@
+Écrivez une fonction en JavaScript qui prend en entrée un tableau de nombres et renvoie la médiane de ces nombres. La médiane est la valeur qui se trouve au milieu du tableau une fois celui-ci trié par ordre croissant. Si le tableau a un nombre pair d'éléments, la médiane est la moyenne des deux valeurs du milieu.

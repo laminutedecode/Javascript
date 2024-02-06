@@ -1,0 +1,1 @@
+ Écrivez une fonction en JavaScript qui résout le problème du sac à dos pour un ensemble donné d'objets, chacun ayant un poids et une valeur, et une capacité maximale du sac à dos. L'objectif est de maximiser la valeur totale des objets dans le sac sans dépasser la capacité maximale.

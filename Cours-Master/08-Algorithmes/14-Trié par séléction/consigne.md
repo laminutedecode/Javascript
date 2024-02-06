@@ -1,0 +1,1 @@
+Écrivez une fonction en JavaScript qui trie un tableau d'entiers en utilisant l'algorithme de tri par sélection.

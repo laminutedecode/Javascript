@@ -1,0 +1,3 @@
+Écrivez une fonction qui prend deux chaînes en entrée et renvoie true si ce sont des anagrammes, sinon renvoie false.
+
+Un anagramme est un mot ou une phrase qui est créé en réorganisant les lettres d'un autre mot ou d'une autre phrase, en utilisant toutes les lettres originales exactement une fois. Cela signifie que les anagrammes ont les mêmes lettres, mais celles-ci sont arrangées de manière différente pour former un nouveau mot ou une nouvelle phrase avec un sens différent.

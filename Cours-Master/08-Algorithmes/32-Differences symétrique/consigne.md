@@ -1,0 +1,1 @@
+Écrivez une fonction qui prend deux tableaux en entrée et renvoie un tableau contenant les éléments qui sont présents dans un seul des tableaux, mais pas dans les deux.

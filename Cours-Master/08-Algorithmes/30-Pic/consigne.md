@@ -1,0 +1,1 @@
+Écrivez une fonction en JavaScript qui recherche un "pic" dans un tableau. Un pic est un élément du tableau tel que l'élément adjacent à gauche et l'élément adjacent à droite sont tous deux inférieurs à lui.

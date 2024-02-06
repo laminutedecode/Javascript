@@ -1,0 +1,1 @@
+Écrire une fonction en JavaScript qui prend en entrée un tableau d'entiers et un nombre cible, et qui renvoie toutes les paires de nombres dans le tableau dont la somme est égale à la cible.

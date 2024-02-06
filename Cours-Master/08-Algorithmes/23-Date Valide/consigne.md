@@ -1,0 +1,1 @@
+Écrivez une fonction en JavaScript qui prend en entrée une date sous la forme de jour, mois et année, et vérifie si la date est valide. Assurez-vous que les mois sont compris entre 1 et 12, que les jours sont dans la plage appropriée pour chaque mois, et que l'année est positive.

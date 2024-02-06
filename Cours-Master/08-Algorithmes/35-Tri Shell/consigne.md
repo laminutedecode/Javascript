@@ -1,0 +1,1 @@
+Implémentez l'algorithme de tri Shell en JavaScript. L'algorithme de tri Shell est une variation du tri par insertion où l'on utilise un intervalle variable pour réduire le nombre d'échanges nécessaires.

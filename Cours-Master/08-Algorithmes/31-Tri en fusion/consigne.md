@@ -1,0 +1,3 @@
+Implémentez une fonction en JavaScript qui effectue le tri fusion sur un tableau d'entiers.Le tri fusion (Merge Sort)
+
+Le tri fusion, ou Merge Sort en anglais, est un algorithme de tri basé sur la technique de diviser pour régner (divide and conquer). L'idée principale derrière le tri fusion est de diviser récursivement le tableau en deux moitiés, trier chaque moitié de manière récursive, puis fusionner les deux moitiés triées pour obtenir le tableau final trié.

@@ -1,0 +1,1 @@
+Écrire une fonction en JavaScript qui prend en entrée un nombre entier positif n et renvoie true s'il s'agit d'un nombre premier, et false sinon. Un nombre premier est un nombre qui n'a aucun diviseur autre que 1 et lui-même.

@@ -1,0 +1,1 @@
+Écrivez une fonction en JavaScript qui prend une adresse email en entrée et retourne vrai si l'adresse est valide, sinon retourne faux. Pour être considérée valide, l'adresse email doit respecter certaines règles, telles que la présence d'un "@" et d'un domaine valide.

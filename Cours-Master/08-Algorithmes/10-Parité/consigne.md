@@ -1,0 +1,1 @@
+Consigne : Écrivez une fonction en JavaScript qui prend un tableau de nombres en entrée et renvoie un tableau indiquant si chaque nombre est pair ou impair.

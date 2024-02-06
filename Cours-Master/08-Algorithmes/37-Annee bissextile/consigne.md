@@ -1,0 +1,1 @@
+Écrivez une fonction qui prend une année en entrée et renvoie true si l'année est bissextile, sinon renvoie false.
